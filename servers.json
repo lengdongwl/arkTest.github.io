@@ -1,0 +1,11 @@
+{
+  "id": "host-uuid",
+  "name": "nnnn",
+  "host": "192.168.1.23",
+  "port": 7777,
+  "map": "TheIsland",
+  "players": 2,
+  "maxPlayers": 10,
+  "password": false,
+  "gameVersion": "1.10192"
+}
